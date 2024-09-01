@@ -13,6 +13,14 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        hubbySky: "#C3EBFA",
+        hubbySkyLight: "#EDF9FD",
+        hubbyPurple: "#CFCEFF",
+        hubbyPurpleLight: "#F1F0FF",
+        hubbyYellow: "#FAE27C",
+        hubbyYellowLight: "#FEFCE8",
+      },
     },
   },
   plugins: [],
